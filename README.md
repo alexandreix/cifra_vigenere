@@ -5,5 +5,5 @@ Script para descriptografar textos utilizando a Cifra de Vigenère, como o texto
 <br>
 
 <p align="center">
-  <small>© 2026 Desenvolvido por <a href="https://github.com">Alexandre Rodrigues</a></small>
+  <small>© 2026 Desenvolvido por <a href="https://github.com">Alexandre Rodrigues</a> com revisão de IA.</small>
 </p>
